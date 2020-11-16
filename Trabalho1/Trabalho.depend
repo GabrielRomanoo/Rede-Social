@@ -1,0 +1,57 @@
+# depslib dependency file v1.0
+1571006742 source:c:\users\jaime\desktop\trabalho\listaord.c
+	"listaord.h"
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
+1571003884 c:\users\jaime\desktop\trabalho\listaord.h
+	<stdbool.h>
+
+1571029455 source:c:\users\jaime\desktop\trabalho\redesocial.c
+	"redesocial.h"
+	"listaord.h"
+
+1571028178 c:\users\jaime\desktop\trabalho\redesocial.h
+	"listaord.h"
+	<stdbool.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1571028882 source:c:\users\jaime\desktop\trabalho\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"redesocial.h"
+
+1571029732 source:c:\users\danie\dropbox\trabalhos da faculdade\trabalhos\trabalho 3.0\listaord.c
+	"listaord.h"
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
+1571029733 c:\users\danie\dropbox\trabalhos da faculdade\trabalhos\trabalho 3.0\listaord.h
+	<stdbool.h>
+
+1571097197 source:c:\users\danie\dropbox\trabalhos da faculdade\trabalhos\trabalho 3.0\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"redesocial.h"
+
+1571067179 c:\users\danie\dropbox\trabalhos da faculdade\trabalhos\trabalho 3.0\redesocial.h
+	"listaord.h"
+	<stdbool.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1571097220 source:c:\users\danie\dropbox\trabalhos da faculdade\trabalhos\trabalho 3.0\redesocial.c
+	"redesocial.h"
+	"listaord.h"
+

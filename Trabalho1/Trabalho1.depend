@@ -1,0 +1,106 @@
+# depslib dependency file v1.0
+1569886141 source:e:\4semestre\estruturas de dados\t1\trabalho1\avl.c
+	"avl.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1570401323 e:\4semestre\estruturas de dados\t1\trabalho1\avl.h
+	<stdbool.h>
+
+1570390987 source:e:\4semestre\estruturas de dados\t1\trabalho1\avl_countree.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"avl.h"
+
+1570598163 source:e:\4semestre\estruturas de dados\t1\trabalho1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"redesocial.h"
+
+1570393860 source:e:\4semestre\estruturas de dados\t1\trabalho1\lista.c
+	"lista.h"
+
+1570394357 e:\4semestre\estruturas de dados\t1\trabalho1\lista.h
+	<stdio.h>
+	<stdbool.h>
+	<stdlib.h>
+	<time.h>
+
+1570596361 e:\4semestre\estruturas de dados\t1\trabalho1\redesocial.h
+	"listaord.h"
+	<stdbool.h>
+
+1570598113 source:e:\4semestre\estruturas de dados\t1\trabalho1\redesocial.c
+	"redesocial.h"
+	"listaord.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	<ctype.h>
+
+1570595688 source:e:\4semestre\estruturas de dados\t1\trabalho1\listaord.c
+	"listaord.h"
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
+1570592651 e:\4semestre\estruturas de dados\t1\trabalho1\listaord.h
+	<stdbool.h>
+
+1570595690 source:e:\unisantos\faculdade\4° semestre\estrutura de dados ii\trabalhos\trabalho1\listaord.c
+	"listaord.h"
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
+1570592652 e:\unisantos\faculdade\4° semestre\estrutura de dados ii\trabalhos\trabalho1\listaord.h
+	<stdbool.h>
+
+1570598114 source:e:\unisantos\faculdade\4° semestre\estrutura de dados ii\trabalhos\trabalho1\redesocial.c
+	"redesocial.h"
+	"listaord.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	<ctype.h>
+
+1570596362 e:\unisantos\faculdade\4° semestre\estrutura de dados ii\trabalhos\trabalho1\redesocial.h
+	"listaord.h"
+	<stdbool.h>
+
+1570744586 source:e:\unisantos\faculdade\4° semestre\estrutura de dados ii\trabalhos\trabalho1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"redesocial.h"
+
+1570595690 source:d:\unisantos\faculdade\4° semestre\estrutura de dados ii\trabalhos\trabalho1\listaord.c
+	"listaord.h"
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
+1570592652 d:\unisantos\faculdade\4° semestre\estrutura de dados ii\trabalhos\trabalho1\listaord.h
+	<stdbool.h>
+
+1570747044 source:d:\unisantos\faculdade\4° semestre\estrutura de dados ii\trabalhos\trabalho1\redesocial.c
+	"redesocial.h"
+	"listaord.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	<ctype.h>
+
+1570596362 d:\unisantos\faculdade\4° semestre\estrutura de dados ii\trabalhos\trabalho1\redesocial.h
+	"listaord.h"
+	<stdbool.h>
+
