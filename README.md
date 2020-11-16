@@ -33,7 +33,7 @@ nome completo e sexo);
 - **Listar amigos**: `bool list_friends(avl_tree t, char * username)`. Mostra o nome
 de usuário, nome completo e sexo de todos os amigos de um usuário
 (username). A função devolve true se o usuário (username) estiver
-cadastrado na rede; ou false, caso contrário;
+cadastrado na rede; ou false, caso contrário.
 
 - **Remover usuário**: `bool remove_user(avl_tree * t, char * username)`. Remove o
 usuário (username) da rede social e também da lista de amigos dos demais
@@ -41,4 +41,4 @@ usuários. A função deve verificar se o usuário existe para fazer a operaçã
 devolver true para indicar seu sucesso; ou false, para indicar a falha.
 
 - **Finalizar o programa**: `void save_users(avl_tree t)`. Grava em um arquivo texto as
-informações da rede, no mesmo formato descrito no item a).
+informações da rede.
